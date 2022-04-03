@@ -15,9 +15,12 @@ A fun project to work on vanilla JavaScript, based on lessons from JavaScript 30
 
 * 01 - JavaScript Drum Kit 
 
-### Next on the list
+### In progress
 
 * 02 - JS and CSS Clock
+
+### Next on the list
+
 * 03 - CSS Variables
 * 04 - Array Cardio Day 1
 * 05 - Flex Panel Gallery
