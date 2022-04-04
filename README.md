@@ -11,16 +11,16 @@ Raghav V. Sampangi
 
 A fun project to work on vanilla JavaScript, based on lessons from JavaScript 30 (https://javascript30.com/).
 
-### ✅ Completed ✅
+### Completed ✅
 
 * 01 - JavaScript Drum Kit 🆗
 * 02 - JS and CSS Clock 🆗
 
-### 🔷 In progress 🔷
+### In progress 🔷
 
-* 03 - CSS Variables
+* 03 - CSS Variables 👨‍💻
 
-### 🕒 Next on the list 🕒
+### Next on the list 🕒
 
 * 04 - Array Cardio Day 1
 * 05 - Flex Panel Gallery
