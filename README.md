@@ -1,7 +1,7 @@
 # JS 30
 
 Date Created: 02 Apr 2022
-Last Modification Date: 02 Apr 2022
+Last Modification Date: 03 Apr 2022
 
 ## Author(s)
 
@@ -11,17 +11,17 @@ Raghav V. Sampangi
 
 A fun project to work on vanilla JavaScript, based on lessons from JavaScript 30 (https://javascript30.com/).
 
-### Completed
+### ✅ Completed ✅
 
-* 01 - JavaScript Drum Kit 
+* 01 - JavaScript Drum Kit 🆗
+* 02 - JS and CSS Clock 🆗
 
-### In progress
-
-* 02 - JS and CSS Clock
-
-### Next on the list
+### 🔷 In progress 🔷
 
 * 03 - CSS Variables
+
+### 🕒 Next on the list 🕒
+
 * 04 - Array Cardio Day 1
 * 05 - Flex Panel Gallery
 * 06 - Type Ahead

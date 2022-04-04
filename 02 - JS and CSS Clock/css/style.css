@@ -43,4 +43,8 @@ html {
 	background: black;
 	position: absolute;
 	top: 50%;
+	transform-origin: 100%; /* This defines "where" transformation takes place, i.e., whether the rotation pivot point is in the middle of the element (with 50%) or the end edge of the element (with 100%). You can observe the rotation when this is used with transform: rotate(Ndeg); style definition */
+	transform: rotate(90deg); /* Default rotation by 90 degrees, because divs are block elements that appear left to right by default. We need the clock hands to appear so that they start at the 12 o'clock mark, so 90 degree rotation with transofrm origin 100%. */
+	transition: all 0.05s;
+	transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1); /* This basically gives the clock hand movements the "tick" motion. To change this transition style, you can use the cubic-bezier() function in the developer view in the browser. */
   }
