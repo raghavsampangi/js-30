@@ -15,14 +15,14 @@ A fun project to work on vanilla JavaScript, based on lessons from JavaScript 30
 
 * 01 - JavaScript Drum Kit 🆗
 * 02 - JS and CSS Clock 🆗
+* 03 - CSS Variables 🆗
 
 ### In progress 🔷
 
-* 03 - CSS Variables 👨‍💻
+* 04 - Array Cardio Day 1 👨‍💻
 
 ### Next on the list 🕒
 
-* 04 - Array Cardio Day 1
 * 05 - Flex Panel Gallery
 * 06 - Type Ahead
 * 07 - Array Cardio Day 2
