@@ -17,14 +17,14 @@ A fun project to work on vanilla JavaScript, based on lessons from JavaScript 30
 * 02 - JS and CSS Clock 🆗
 * 03 - CSS Variables 🆗
 * 04 - Array Cardio Day 1 🆗
+* 05 - Flex Panel Gallery 🆗
 
 ### In progress 🔷
 
-* 05 - Flex Panel Gallery 👨‍💻
+* 06 - Type Ahead 👨‍💻
 
 ### Next on the list 🕒
 
-* 06 - Type Ahead
 * 07 - Array Cardio Day 2
 * 08 - Fun with HTML5 Canvas
 * 09 - Dev Tools Domination
